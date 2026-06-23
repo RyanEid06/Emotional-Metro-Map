@@ -6,9 +6,7 @@ import { Roadmap } from "./components/Roadmap";
 import { StationPanel } from "./components/StationPanel";
 import { StudentAvatar } from "./components/StudentAvatar";
 import {
-  coreMessage,
   dailySchedule,
-  projectPurpose,
   projectSubtitle,
   projectTitle,
   stations,
@@ -230,8 +228,6 @@ function Home({
         <p className="eyebrow">Psychology Assignment 2 · Emotional Regulation</p>
         <h1 id="home-title">{projectTitle}</h1>
         <p className="hero-subtitle">{projectSubtitle}</p>
-        <p>{projectPurpose}</p>
-        <p>{coreMessage}</p>
         <div className="hero-actions">
           <button className="primary-button" type="button" onClick={onBegin}>
             <span aria-hidden="true">→</span>
@@ -294,3 +290,4 @@ function MapPage({
     </div>
   );
 }
+

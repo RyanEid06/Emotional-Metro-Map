@@ -9,30 +9,30 @@ The project presents one normal day as an emotional roadmap with Part 1 conceptu
 Required:
 
 - Node.js 20 or newer
-- pnpm 11 or newer
+- npm 11 or newer, installed with Node.js
 
 Install dependencies:
 
 ```bash
-pnpm install
+npm install
 ```
 
 Run locally:
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 Create a production build:
 
 ```bash
-pnpm build
+npm run build
 ```
 
 Preview the production build:
 
 ```bash
-pnpm preview
+npm run preview
 ```
 
 ## Project Structure
@@ -76,7 +76,7 @@ Recommended settings:
 
 - Framework preset: `Vite`
 - Production branch: `main`
-- Build command: `pnpm build`
+- Build command: `npm run build`
 - Output directory: `dist`
 - Root directory: `/`
 - Environment variables: none required
@@ -89,7 +89,7 @@ Cloudflare setup steps:
 4. Select "Connect to Git."
 5. Choose the GitHub repository.
 6. Set the production branch to `main`.
-7. Use the Vite preset or manually enter `pnpm build` and `dist`.
+7. Use the Vite preset or manually enter `npm run build` and `dist`.
 8. Save and deploy.
 
 After this is connected, every future push to `main` automatically triggers a new Cloudflare Pages deployment.

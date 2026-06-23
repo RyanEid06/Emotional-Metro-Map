@@ -14,6 +14,8 @@ type RoadmapProps = {
 const pathD =
   "M 10 76 C 19 75 25 69 28 61 C 32 51 17 52 18 42 C 19 32 35 35 42 31 C 51 25 56 40 63 47 C 71 54 75 39 79 31 C 82 22 70 21 68 13 C 72 4 86 8 90 11";
 
+const stationPathProgress = [0, 0.1377, 0.2679, 0.4247, 0.5877, 0.7368, 0.8618, 1];
+
 function StationButton({
   station,
   index,
@@ -51,6 +53,7 @@ export function Roadmap({
   moving = false
 }: RoadmapProps) {
   const activeStation = stations[activeIndex];
+  const activePathProgress = stationPathProgress[activeIndex] ?? 0;
 
   if (compact) {
     return (
@@ -104,7 +107,8 @@ export function Roadmap({
           <path
             className="road-line__progress"
             d={pathD}
-            style={{ "--progress": `${Math.max(0.08, (activeIndex + 1) / stations.length)}` } as React.CSSProperties}
+            pathLength={1}
+            style={{ "--progress": `${activePathProgress}` } as React.CSSProperties}
           />
         </svg>
         <div

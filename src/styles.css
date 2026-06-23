@@ -679,15 +679,29 @@ main {
 
 .map-click-hint {
   display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
   width: fit-content;
-  margin-top: 0.8rem;
-  border-left: 5px solid #982626;
+  margin-top: 0.9rem;
+  border: 1px solid #982626;
   border-radius: 8px;
   background: #c53232;
   color: #ffffff;
-  padding: 0.65rem 0.85rem;
+  padding: 0.85rem 1rem;
   font-weight: 900;
-  box-shadow: 0 6px 18px rgba(126, 42, 35, 0.12);
+  box-shadow: 0 6px 18px rgba(126, 42, 35, 0.18);
+}
+
+.map-click-hint::before {
+  content: "->";
+  display: inline-grid;
+  width: 1.5rem;
+  height: 1.5rem;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.22);
+  color: #ffffff;
+  font-weight: 900;
 }
 
 .roadmap-heading .map-click-hint {
@@ -762,7 +776,8 @@ main {
 .road-line__progress {
   stroke: #2f7d63;
   stroke-width: 4;
-  stroke-dasharray: calc(var(--progress) * 420) 420;
+  stroke-dasharray: var(--progress) 1;
+  transition: stroke-dasharray 620ms cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .station-marker-wrap {

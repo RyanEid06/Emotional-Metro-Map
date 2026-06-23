@@ -233,11 +233,9 @@ function Home({
             <span>Begin the Journey</span>
           </button>
           <button className="secondary-button" type="button" onClick={onPartOne}>
-            <span aria-hidden="true">I</span>
             <span>View Part 1</span>
           </button>
           <button className="secondary-button" type="button" onClick={onMap}>
-            <span aria-hidden="true">◎</span>
             <span>Open Map</span>
           </button>
         </div>

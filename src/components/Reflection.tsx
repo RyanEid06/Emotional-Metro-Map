@@ -32,7 +32,6 @@ export function Reflection({ onOpenMap }: ReflectionProps) {
       <div className="transition-panel">
         <p>Now follow me through the eight stations of my day.</p>
         <button className="primary-button" type="button" onClick={onOpenMap}>
-          <span aria-hidden="true">◎</span>
           <span>Open the Full Map</span>
         </button>
       </div>

@@ -155,15 +155,67 @@ li {
 }
 
 .brand-mark__symbol {
-  display: grid;
+  position: relative;
+  display: block;
   width: 2.25rem;
   height: 2.25rem;
-  place-items: center;
   border: 2px solid #1d2d32;
   border-radius: 8px;
-  background: #f0c36c;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.5), transparent 45%),
+    #f0c36c;
   box-shadow: 0 4px 0 #1d2d32;
   flex: 0 0 auto;
+  overflow: hidden;
+}
+
+.brand-logo__path {
+  position: absolute;
+  left: 0.42rem;
+  top: 0.55rem;
+  width: 1.2rem;
+  height: 1.05rem;
+  border-left: 0.22rem solid #1f5f52;
+  border-bottom: 0.22rem solid #1f5f52;
+  border-radius: 0 0 0 8px;
+  transform: skewX(-14deg);
+}
+
+.brand-logo__station,
+.brand-logo__avatar {
+  position: absolute;
+  border: 2px solid #1d2d32;
+  border-radius: 999px;
+}
+
+.brand-logo__station {
+  width: 0.48rem;
+  height: 0.48rem;
+  background: #fffdf8;
+}
+
+.brand-logo__station--one {
+  left: 0.36rem;
+  top: 0.43rem;
+}
+
+.brand-logo__station--two {
+  left: 0.93rem;
+  top: 1.1rem;
+}
+
+.brand-logo__station--three {
+  right: 0.34rem;
+  bottom: 0.34rem;
+}
+
+.brand-logo__avatar {
+  right: 0.45rem;
+  top: 0.42rem;
+  width: 0.54rem;
+  height: 0.68rem;
+  background: #4f9d89;
+  border-radius: 999px 999px 7px 7px;
 }
 
 .top-nav__links {
@@ -196,6 +248,48 @@ li {
 .nav-button {
   border-color: rgba(29, 45, 50, 0.16);
   background: #ffffff;
+}
+
+.nav-icon {
+  position: relative;
+  display: inline-block;
+  width: 1.05rem;
+  height: 1.05rem;
+  flex: 0 0 auto;
+}
+
+.nav-icon--home::before {
+  content: "";
+  position: absolute;
+  left: 0.08rem;
+  top: 0.34rem;
+  width: 0.82rem;
+  height: 0.62rem;
+  border: 2px solid currentColor;
+  border-top: 0;
+  border-radius: 0 0 3px 3px;
+}
+
+.nav-icon--home::after {
+  content: "";
+  position: absolute;
+  left: 0.11rem;
+  top: 0.08rem;
+  width: 0.78rem;
+  height: 0.78rem;
+  border-left: 2px solid currentColor;
+  border-top: 2px solid currentColor;
+  transform: rotate(45deg);
+}
+
+.nav-icon--home span {
+  position: absolute;
+  left: 0.43rem;
+  bottom: 0.07rem;
+  width: 0.22rem;
+  height: 0.38rem;
+  border-radius: 2px 2px 0 0;
+  background: currentColor;
 }
 
 .nav-button[aria-current="page"] {
@@ -577,6 +671,19 @@ main {
   color: var(--muted);
 }
 
+.map-click-hint {
+  display: inline-flex;
+  width: fit-content;
+  margin-top: 0.8rem;
+  border-left: 5px solid #c53232;
+  border-radius: 8px;
+  background: #fff1ed;
+  color: #a42727;
+  padding: 0.65rem 0.85rem;
+  font-weight: 900;
+  box-shadow: 0 6px 18px rgba(126, 42, 35, 0.12);
+}
+
 .roadmap-stage {
   position: relative;
   min-height: 610px;
@@ -663,8 +770,7 @@ main {
   grid-template-areas:
     "icon number"
     "icon title"
-    "icon time"
-    "icon cta";
+    "icon time";
   align-items: center;
   width: 12.2rem;
   min-height: 5rem;
@@ -821,23 +927,6 @@ main {
   color: inherit;
   font-size: 0.76rem;
   opacity: 0.78;
-}
-
-.station-marker__cta {
-  grid-area: cta;
-  display: inline-flex;
-  width: fit-content;
-  margin-top: 0.38rem;
-  border: 1px solid currentColor;
-  border-radius: 999px;
-  padding: 0.18rem 0.5rem;
-  color: inherit;
-  font-size: 0.72rem;
-  font-weight: 900;
-}
-
-.station-marker--first:not(.is-active) {
-  background: #fff4d8;
 }
 
 .map-avatar {

@@ -29,7 +29,7 @@ function StationButton({
 }) {
   return (
     <button
-      className={`station-marker${index === 0 ? " station-marker--first" : ""}${active ? " is-active" : ""}${completed ? " is-complete" : ""}`}
+      className={`station-marker${active ? " is-active" : ""}${completed ? " is-complete" : ""}`}
       type="button"
       onClick={() => onSelect(index)}
       aria-current={active ? "step" : undefined}
@@ -39,7 +39,6 @@ function StationButton({
       <span className="station-marker__number">{station.id}</span>
       <span className="station-marker__title">{station.title}</span>
       <span className="station-marker__time">{station.time}</span>
-      <span className="station-marker__cta">{index === 0 ? "Start here - Open station" : "Open station"}</span>
     </button>
   );
 }
@@ -89,12 +88,13 @@ export function Roadmap({
   return (
     <section className="roadmap-shell" aria-labelledby="map-title">
       <div className="roadmap-heading">
-        <p className="eyebrow">Part 2 · Emotional Roadmap</p>
+        <p className="eyebrow">Part 2 - Emotional Roadmap</p>
         <h2 id="map-title">Eight stations across one normal day</h2>
         <p>
           Select any station. The avatar moves automatically, then the station opens with the
           activity, habit, technique, emotion, and realistic improvement.
         </p>
+        <p className="map-click-hint">Click any station window to open it.</p>
       </div>
 
       <div className="roadmap-stage" aria-label="Interactive winding emotional metro map">

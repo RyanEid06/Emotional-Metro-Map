@@ -101,7 +101,6 @@ export function StationPanel({
           <span>Previous</span>
         </button>
         <button className="secondary-button" type="button" onClick={onMap}>
-          <span aria-hidden="true">◎</span>
           <span>Full Map</span>
         </button>
         <button className="primary-button" type="button" onClick={onNext}>

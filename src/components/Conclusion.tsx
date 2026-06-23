@@ -28,11 +28,9 @@ export function Conclusion({
 
       <div className="station-actions">
         <button className="secondary-button" type="button" onClick={onPartOne}>
-          <span aria-hidden="true">I</span>
           <span>Return to Part 1</span>
         </button>
         <button className="primary-button" type="button" onClick={onMap}>
-          <span aria-hidden="true">◎</span>
           <span>Revisit the Map</span>
         </button>
       </div>

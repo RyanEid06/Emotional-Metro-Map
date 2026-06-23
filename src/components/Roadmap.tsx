@@ -94,8 +94,8 @@ export function Roadmap({
         <p className="eyebrow">Part 2 - Emotional Roadmap</p>
         <h2 id="map-title">Eight stations across one normal day</h2>
         <p>
-          Select any station. The avatar moves automatically, then the station opens with the
-          activity, habit, technique, emotion, and realistic improvement.
+          Select any station. The station opens with the activity, habit, technique, emotion, and
+          realistic improvement.
         </p>
         <p className="map-click-hint">Click any station window to open it.</p>
       </div>

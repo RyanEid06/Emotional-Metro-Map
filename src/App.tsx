@@ -273,15 +273,22 @@ function MapPage({
       <Roadmap activeIndex={activeIndex} visited={visited} moving={moving} onSelect={onSelectStation} />
 
       <section className="schedule-band" aria-labelledby="schedule-title">
-        <div>
+        <div className="schedule-heading">
           <p className="eyebrow">Daily Structure</p>
           <h2 id="schedule-title">The stations follow the real day</h2>
         </div>
-        <ol>
-          {dailySchedule.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ol>
+        <div className="schedule-lists">
+          <ol className="schedule-list">
+            {dailySchedule.slice(0, 4).map((item) => (
+              <li key={item}>{item}</li>
+            ))}
+          </ol>
+          <ol className="schedule-list" start={5}>
+            {dailySchedule.slice(4).map((item) => (
+              <li key={item}>{item}</li>
+            ))}
+          </ol>
+        </div>
       </section>
     </div>
   );

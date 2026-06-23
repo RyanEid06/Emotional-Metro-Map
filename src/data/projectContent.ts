@@ -220,7 +220,7 @@ export const stations: Station[] = [
       "Immediately using the phone again without first allowing the mind to recover.",
     technique: "Anchoring, breathing, hydration, sensory grounding, and quiet recovery.",
     emotionalEffect:
-      "I complete two socially demanding classes. They can drain my social battery. I may also feel physically tired, irritated by the heat, and affected by a headache.",
+      "I attend two socially demanding classes, which can drain my social battery. Afterward, I may feel physically tired, irritated by the heat, and have a headache.",
     supportedState: "Privacy, calmness, mental recovery, safety, and restored energy.",
     improvement: [
       "Spend the first ten to fifteen minutes in silence.",
@@ -319,7 +319,7 @@ export const stations: Station[] = [
     technique:
       "Rest, visualization, habit formation, emotional regulation, breathing, and breaking work into a manageable session.",
     emotionalEffect:
-      "When I become annoyed or feel that I have already made a mistake, I sometimes rush the task or make worse decisions. In chess, for example, if I believe I am losing, frustration may cause me to lose faster instead of thinking carefully.",
+      "When I am tired or have procrastinated, I sometimes rush my work just to finish it. This can reduce the quality of my decisions and leave me feeling more frustrated or guilty afterward.",
     supportedState: "Rest, direction, manageable focus, motivation, and reduced mental overload.",
     improvement: [
       "Try a thirty-minute power nap after lunch.",
@@ -364,10 +364,11 @@ export const stations: Station[] = [
     automaticHabit: "Choosing scrolling or passive rest instead of beginning the workout.",
     technique:
       "Physical movement, self-control, habit formation, nervous-system regulation, and emotional release.",
-    emotionalEffect: "Tiredness and laziness.",
+    emotionalEffect:
+      "I often feel tired and unmotivated, which makes scrolling or passive rest feel easier than starting the workout.",
     supportedState: "Energy, motivation, release, confidence, discipline, and improved mood.",
     improvement: [
-      "Workout three days per week.",
+      "Work out three days per week.",
       "Begin around 6:00 p.m.",
       "Use the dumbbell equipment already available at home.",
       "Focus on consistency rather than creating an extreme routine."
@@ -375,7 +376,7 @@ export const stations: Station[] = [
     extraDetails: [
       {
         label: "Current obstacle",
-        body: "Tiredness and laziness."
+        body: "I often feel tired and unmotivated, which makes scrolling or passive rest feel easier than starting the workout."
       }
     ],
     scene: "workout",
@@ -394,7 +395,7 @@ export const stations: Station[] = [
     id: 8,
     slug: "one-more-game",
     title: "One More Game",
-    sourceHeading: "Nighttime Chess",
+    sourceHeading: "Late Evening and Before Sleep",
     time: "Approximately 11:00 p.m.–12:00 a.m.",
     location: "Bedroom",
     activity: "I use my phone until the moment I sleep, usually playing chess.",

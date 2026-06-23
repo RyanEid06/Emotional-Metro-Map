@@ -277,7 +277,7 @@ export const stations: Station[] = [
     improvement: [
       "Eat a more filling and balanced meal that supports energy.",
       "Possible realistic additions include an extra portion of the meal, a fresh salad, bread or another suitable source of carbohydrates.",
-      "The goal is not an unrealistic diet or randomly doubling all food. The goal is to eat enough nourishing food to reduce constant tiredness."
+      "The goal is to eat enough nourishing food to reduce constant tiredness."
     ],
     extraDetails: [
       {

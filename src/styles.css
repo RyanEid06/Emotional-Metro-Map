@@ -679,28 +679,19 @@ main {
 
 .map-click-hint {
   display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
   width: fit-content;
-  margin-top: 0.9rem;
-  border: 1px solid #982626;
+  margin-top: 0.8rem;
+  border-left: 5px solid #982626;
   border-radius: 8px;
   background: #c53232;
   color: #ffffff;
-  padding: 0.85rem 1rem;
+  padding: 0.65rem 0.85rem;
   font-weight: 900;
-  box-shadow: 0 6px 18px rgba(126, 42, 35, 0.18);
+  box-shadow: 0 6px 18px rgba(126, 42, 35, 0.12);
 }
 
-.map-click-hint::before {
-  content: "->";
-  display: inline-grid;
-  width: 1.5rem;
-  height: 1.5rem;
-  place-items: center;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.22);
-  font-weight: 900;
+.roadmap-heading .map-click-hint {
+  color: #ffffff;
 }
 
 .roadmap-stage {

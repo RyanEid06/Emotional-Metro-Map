@@ -1,0 +1,376 @@
+IMPORTANT — APPROVED CONTENT SOURCE
+
+This file contains the approved academic content, personal facts, routine details, habits, emotions, techniques, and final wording for the website. Use it as the source of truth for what the project says. Do not invent personal information or substantially rewrite the reflection, stations, or conclusion.
+
+This file contains content only. Website design, coding, animation, layout, testing, and deployment instructions are in CODEX_INSTRUCTIONS.md.
+
+==================================================
+PROJECT IDENTITY AND CORE MESSAGE
+=================================
+
+PROJECT TITLE:
+My Emotional Metro Map
+
+PROJECT PURPOSE:
+Present one normal day as an emotional journey through eight real, repeatable stations. Each station shows an existing habit, a class technique, the emotional state involved, and one realistic improvement.
+
+CORE MESSAGE:
+I am not trying to completely change my routine or pretend to have a perfect lifestyle. I want to keep the normal structure of my day while adding small, maintainable habits that support preparation, focus, calmness, recovery, energy, and emotional regulation.
+
+The project must remain honest. Some habits are useful, some are mixed, and some need improvement. Phone use is not automatically bad. The overall message is balance, self-awareness, and realistic progress.
+
+==================================================
+PART 1 — CONCEPTUAL REFLECTION
+==============================
+
+Treating daily moments as “points of reference and navigation” means creating specific moments in my day where I already know what useful action to take. Like stations on a metro map, these moments help me understand where I am emotionally and guide me toward what I need next. I do not want to completely change my day. Instead, I want to add small, realistic habits that make my routine healthier and less automatic.
+
+Small repeated moments can be powerful because they slowly become habits. A mindful lunch or ten minutes without my phone may not immediately change my well-being, but repeating these actions can make a real difference over time. I have already stopped using my phone during lunch for four days. Now I can eat in silence, rest my mind, enjoy my food, or speak with my family. The effect is still small, but I can see how this habit could improve my life if I maintain it.
+
+The psychological concept that connects most strongly to my map is habit formation. When an action is attached to a clear moment, such as waiting before class or preparing to study, it becomes easier to remember and repeat. These stations also support emotional regulation. Without pauses, my days can feel repetitive, and I may feel lost, tired, or anxious because I have not reflected on what is bothering me.
+
+The tools learned in class give each station a purpose. Breathing and meditation can help me calm down during long waits at university. Visualization helps me plan studying and programming tasks. Mindful eating helps me stay present and choose food that supports my energy. Anchoring can return me to a calm emotional state, while home workouts can release tension and improve motivation. Together, these small stations can improve my day without forcing an unrealistic routine.
+
+KEY IDEAS FROM PART 1:
+
+1. Points of Reference
+   A station is a predictable point during the day where I already know what action I should take.
+
+2. Small Habits Add Up
+   A ten-minute pause may appear small, but repeating it can gradually improve the entire routine.
+
+3. Habit Formation
+   Connecting a helpful action to a specific time or situation makes the action easier to remember and maintain.
+
+4. Emotional Regulation
+   Pausing allows me to recognize tiredness, frustration, anxiety, or lack of motivation before those emotions control my next decision.
+
+5. Realistic Improvement
+   The goal is not to rebuild my entire life. The goal is to improve my existing routine through small additions.
+
+6. Main Class Tools
+   Meditation, breathing, visualization, mindful eating, anchoring, physical movement, sensory awareness, and self-control.
+
+==================================================
+PART 2 — THE EIGHT-STATION EMOTIONAL ROADMAP
+============================================
+
+GENERAL DAILY SCHEDULE:
+
+Wake up: 7:00 a.m.
+Leave home: Around 7:30 a.m.
+Arrive near university: Around 8:00 a.m.
+Classes: 9:30 a.m. to 12:30 p.m.
+Leave the university area: Around 2:00 p.m.
+Lunch: Around 4:00 p.m.
+Workout target: Around 6:00 p.m., three days per week
+Before-sleep phone and chess time: 11:00 p.m. to 12:00 a.m.
+Sleep: Around midnight
+
+The reason for my long university waiting periods is transportation. I travel with my father. He works from 8:00 a.m. until 2:00 p.m., while my classes are from 9:30 a.m. until 12:30 p.m. Therefore, I wait approximately 90 minutes before class and approximately 90 minutes after class.
+
+---
+
+## STATION 1 — MORNING WAKE-UP
+
+Suggested title:
+Morning Spark
+
+Time:
+7:00 a.m.
+
+Location:
+Bedroom/home
+
+Specific activity:
+After waking up, I use my phone for approximately twenty minutes. I check WhatsApp, scroll through TikTok, and sometimes play a quick game on Chess.com. After that, I get dressed and prepare to leave.
+
+Automatic habit:
+Reaching for my phone immediately after waking up.
+
+Honest emotional effect:
+The phone entertains me and helps me wake up. It does not normally make me late because I can control the amount of time.
+
+Tool or psychological idea:
+Self-control and a pleasure station.
+
+Meaning of this station:
+This habit is not completely harmful. The twenty-minute period is controlled, enjoyable, and useful for waking up. Emotional well-being does not require removing every enjoyable activity.
+
+Emotional state supported:
+Entertainment, alertness, and a comfortable start to the morning.
+
+Realistic improvement:
+Keep the habit controlled at approximately twenty minutes rather than allowing it to expand.
+
+---
+
+## STATION 2 — CAR RIDE AND MENTAL PREPARATION
+
+Suggested title:
+Window of Ideas
+
+Time:
+Approximately 7:30–8:00 a.m.
+
+Location:
+Inside the car
+
+Specific activity:
+I travel to the university area by car. I am usually quiet, listening to music or the radio, looking out of the window, and thinking.
+
+Automatic habit:
+Quietly thinking while looking outside.
+
+Tool or psychological idea:
+Mental visualization.
+
+How visualization already appears naturally:
+I mentally organize my plans before acting. I may think about my future, university work, study material, programming ideas, website projects, or what I need to complete later.
+
+Emotional state supported:
+Mental preparation, organization, imagination, and focus.
+
+Realistic improvement:
+Use part of the quiet car ride intentionally to visualize one or two priorities for the day without creating an overwhelming schedule.
+
+---
+
+## STATION 3 — BEFORE-CLASS PREPARATION
+
+Suggested title:
+Sea-View Reset
+
+Time:
+Approximately 8:00–9:30 a.m.
+
+Location:
+A sea-view area near university
+
+Specific activity:
+I wait for approximately ninety minutes before class. At present, I normally spend nearly the entire waiting period on my phone using Chess.com, TikTok, or Instagram.
+
+Automatic habit:
+Using the phone continuously throughout the entire ninety-minute wait.
+
+Honest emotional effect:
+The phone can entertain me and give me a good laugh, but using it for the full waiting period can also make my head hurt. The weather and heat can add to the irritation.
+
+Tools or techniques:
+Meditation, slow breathing, sensory grounding, hydration, and self-control.
+
+Realistic improvement:
+Bring cold water from home.
+Drink more water during the waiting period.
+Spend at least ten minutes without the phone.
+During those ten minutes, sit quietly, breathe, meditate, look at the sea, and notice the surroundings.
+The remaining time may still include phone use. The goal is balance, not a complete phone ban.
+
+Emotional state supported:
+Calmness, freshness, hydration, mental preparation, and presence before class.
+
+---
+
+## STATION 4 — AFTER-CLASS RECOVERY
+
+Suggested title:
+Social Battery Recharge
+
+Time:
+Approximately 12:30–2:00 p.m.
+
+Location:
+The same or similar sea-view waiting area
+
+Context:
+I complete two socially demanding classes. They can drain my social battery. I may also feel physically tired, irritated by the heat, and affected by a headache.
+
+Specific activity:
+I wait for approximately ninety minutes after class before leaving with my father. At present, I often use my phone for most or all of this period.
+
+Automatic habit:
+Immediately using the phone again without first allowing the mind to recover.
+
+What I emotionally need:
+Silence, privacy, mental rest, and a relaxing place to recharge.
+
+Tools or techniques:
+Anchoring, breathing, hydration, sensory grounding, and quiet recovery.
+
+Exact anchoring technique from the previous assignment:
+I put my arms together and place my right thumb over my left thumb.
+
+Memory connected to the anchor:
+My grandfather’s house in the mountains. I imagine myself sitting on the balcony swing and feeling the wind.
+
+Emotional states connected to the anchor:
+Safety, happiness, calmness, and focus.
+
+Realistic improvement:
+Spend the first ten to fifteen minutes in silence.
+Drink cold water.
+Look at the sea.
+Use the anchoring gesture if I feel irritated or mentally drained.
+Allow phone use afterward, but first create a clear recovery period.
+
+Emotional state supported:
+Privacy, calmness, mental recovery, safety, and restored energy.
+
+---
+
+## STATION 5 — MINDFUL LUNCH
+
+Suggested title:
+Present at the Table
+
+Time:
+Approximately 4:00 p.m.
+
+Location:
+Family dining area at home
+
+Specific activity:
+I eat the food prepared by my mother.
+
+Previous automatic habit:
+Using my phone while eating.
+
+Current improvement:
+For four days, I have been eating without using my phone. Instead, I may sit in silence, rest my brain, enjoy the food, or talk with my family about their day.
+
+Honest reflection:
+The habit is still new, so I have not experienced a huge change yet. However, I can see how it may create a meaningful difference if I continue it.
+
+Tools or techniques:
+Mindful eating, sensory awareness, habit formation, social connection, and recovery.
+
+Food and energy goal:
+Eat a more filling and balanced meal that supports energy.
+Possible realistic additions include:
+An extra portion of the meal.
+A fresh salad.
+Bread or another suitable source of carbohydrates.
+The goal is not an unrealistic diet or randomly doubling all food. The goal is to eat enough nourishing food to reduce constant tiredness.
+
+Emotional state supported:
+Presence, rest, enjoyment, connection with family, nourishment, and improved energy.
+
+---
+
+## STATION 6 — AFTERNOON REST AND STUDY
+
+Suggested title:
+Rest, Plan, Begin
+
+Time:
+Approximately 4:30–5:45 p.m.
+
+Location:
+Bedroom or study area
+
+Current routine:
+After university and lunch, I often feel tired and sleepy. I may scroll for a long time. If studying is necessary, I sometimes force myself to begin. If I have plenty of time before a deadline, I can procrastinate.
+
+Automatic habit:
+Scrolling for hours when tired or delaying work when the deadline feels far away.
+
+New experiment:
+Try a thirty-minute power nap after lunch.
+
+Important detail:
+The power nap is not yet an established habit. It is a realistic experiment. Because I am not used to alarms and may not wake up easily, my parents could help wake me after thirty minutes.
+
+Natural tool already used:
+Mental visualization.
+
+How I use visualization:
+Before studying, I quickly plan the approximate duration and what I want to complete. Then I start, do as much as I am realistically able to do, and stop when necessary. I was already doing this naturally before knowing that it was called visualization.
+
+Emotional challenge:
+When I become annoyed or feel that I have already made a mistake, I sometimes rush the task or make worse decisions. In chess, for example, if I believe I am losing, frustration may cause me to lose faster instead of thinking carefully.
+
+Tools or techniques:
+Rest, visualization, habit formation, emotional regulation, breathing, and breaking work into a manageable session.
+
+Emotional state supported:
+Rest, direction, manageable focus, motivation, and reduced mental overload.
+
+---
+
+## STATION 7 — HOME WORKOUT
+
+Suggested title:
+Energy in Motion
+
+Time:
+Approximately 6:00 p.m., three days per week
+
+Location:
+Home workout area
+
+Specific activity:
+After resting and eating a small pre-workout snack, I want to return to exercising at home using my dumbbell kit.
+
+Current obstacle:
+Tiredness and laziness.
+
+Automatic habit:
+Choosing scrolling or passive rest instead of beginning the workout.
+
+Tools or techniques:
+Physical movement, self-control, habit formation, nervous-system regulation, and emotional release.
+
+Realistic goal:
+Workout three days per week.
+Begin around 6:00 p.m.
+Use the dumbbell equipment already available at home.
+Focus on consistency rather than creating an extreme routine.
+
+Emotional state supported:
+Energy, motivation, release, confidence, discipline, and improved mood.
+
+---
+
+## STATION 8 — NIGHTTIME CHESS
+
+Suggested title:
+One More Game
+
+Time:
+Approximately 11:00 p.m.–12:00 a.m.
+
+Location:
+Bedroom
+
+Specific activity:
+I use my phone until the moment I sleep, usually playing chess.
+
+Automatic habit:
+Continuing to play until bedtime and sometimes staying awake longer because I do not want to finish on a losing streak.
+
+Honest emotional effect:
+Chess makes me feel active and mentally engaged. It has become one of the hobbies I have enjoyed most during the last three months. However, losing can make me annoyed, competitive, and unwilling to stop.
+
+Honest limitation:
+I am not currently trying to stop using my phone before sleep. I enjoy using it until I fall asleep, so a total phone ban would not be realistic for me.
+
+Tools or techniques:
+Pleasure station, breathing, emotional regulation, anchoring, and self-awareness.
+
+Realistic improvement:
+Continue enjoying chess.
+Recognize when frustration begins to control decision-making.
+Use slow breathing or the anchoring gesture after a frustrating loss.
+Pause before immediately starting another game.
+The goal is not to ban chess. The goal is to prevent anger or a losing streak from controlling the end of the night.
+
+Emotional state supported:
+Enjoyment, mental activity, self-awareness, controlled frustration, and a more balanced ending to the day.
+
+==================================================
+ENDING MESSAGE
+==============
+
+Suggested conclusion:
+
+I do not need to completely rebuild my day. My emotional metro map keeps the normal structure of my routine while adding small points of preparation, recovery, reflection, nourishment, movement, and self-control. Each station gives me a clear action to use when I reach that part of the day. Over time, these small and repeatable habits can make my days feel less automatic and help me move through them with greater intention.

@@ -663,7 +663,8 @@ main {
   grid-template-areas:
     "icon number"
     "icon title"
-    "icon time";
+    "icon time"
+    "icon cta";
   align-items: center;
   width: 12.2rem;
   min-height: 5rem;
@@ -820,6 +821,23 @@ main {
   color: inherit;
   font-size: 0.76rem;
   opacity: 0.78;
+}
+
+.station-marker__cta {
+  grid-area: cta;
+  display: inline-flex;
+  width: fit-content;
+  margin-top: 0.38rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  padding: 0.18rem 0.5rem;
+  color: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+}
+
+.station-marker--first:not(.is-active) {
+  background: #fff4d8;
 }
 
 .map-avatar {

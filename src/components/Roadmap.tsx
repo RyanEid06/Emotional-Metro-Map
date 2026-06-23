@@ -29,7 +29,7 @@ function StationButton({
 }) {
   return (
     <button
-      className={`station-marker${active ? " is-active" : ""}${completed ? " is-complete" : ""}`}
+      className={`station-marker${index === 0 ? " station-marker--first" : ""}${active ? " is-active" : ""}${completed ? " is-complete" : ""}`}
       type="button"
       onClick={() => onSelect(index)}
       aria-current={active ? "step" : undefined}
@@ -39,6 +39,7 @@ function StationButton({
       <span className="station-marker__number">{station.id}</span>
       <span className="station-marker__title">{station.title}</span>
       <span className="station-marker__time">{station.time}</span>
+      <span className="station-marker__cta">{index === 0 ? "Start here - Open station" : "Open station"}</span>
     </button>
   );
 }

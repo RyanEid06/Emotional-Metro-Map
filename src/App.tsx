@@ -9,8 +9,7 @@ import {
   dailySchedule,
   projectSubtitle,
   projectTitle,
-  stations,
-  transportationNote
+  stations
 } from "./data/projectContent";
 import type { RouteState, Section } from "./types";
 
@@ -279,7 +278,6 @@ function MapPage({
         <div>
           <p className="eyebrow">Daily Structure</p>
           <h2 id="schedule-title">The stations follow the real day</h2>
-          <p>{transportationNote}</p>
         </div>
         <ol>
           {dailySchedule.map((item) => (
